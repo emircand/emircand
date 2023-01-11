@@ -1,8 +1,6 @@
 <h1 align="center">hi 👋, i'm emircan</h1>
 <h3 align="center">computer science student at gebze technical university</h3>
 
-- 🔭 I’m currently working on [HooT](https://github.com/Software-Engineering-Hoot)
-
 - 🌱 I’m currently learning **backend development**
 
 - 📫 How to reach me **emircandemirel@yahoo.com**
