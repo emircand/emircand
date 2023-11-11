@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, i'm emircan</h1>
-<h3 align="center">computer science student at gebze technical university</h3>
+<h3 align="center">computer science and engineering student at gebze technical university</h3>
 
 - 🌱 I’m currently learning **backend development**
 
