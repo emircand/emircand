@@ -1,7 +1,7 @@
 <h1 align="center">hi 👋, i'm emircan</h1>
 <h3 align="center">computer science and engineering student at gebze technical university</h3>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **natural language processing** and **augmented reality**
 
 - 📫 How to reach me **emircandemirel@yahoo.com**
 
