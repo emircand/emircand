@@ -3,10 +3,10 @@
 
 ---
 
-- 🌱 I’m currently working on **Natural Language Processing**, **Augmented Reality**, and **Computer Vision**.
-- 🚀 I love exploring new technologies and applying them to solve real-world problems.
-- 📚 I’m constantly learning and improving my skills in various domains of computer science.
-- Graduated from Gebze Technical University - Computer Science and Engineering
+- 🌱 I am currently expanding my skills in backend development with .NET.
+- 🧠 I have extensive knowledge and experience in NLP, Computer Vision, and AR/VR Development.
+- 🚀 I love exploring new technologies and applying them to solve real-world problem.
+- 🎓 Graduated from Gebze Technical University with a degree in Computer Science and Engineering.
 
 ---
 
