@@ -47,11 +47,6 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircand&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
----
-
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
   📫 How to reach me: <a href="mailto:emircandemirel@yahoo.com">emircandemirel@yahoo.com</a>
