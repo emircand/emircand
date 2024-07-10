@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emircan</h1>
-<h3 align="center">Senior Computer Science and Engineering Student at Gebze Technical University</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
 - 🌱 I’m currently working on **Natural Language Processing**, **Augmented Reality**, and **Computer Vision**.
 - 🚀 I love exploring new technologies and applying them to solve real-world problems.
 - 📚 I’m constantly learning and improving my skills in various domains of computer science.
+- Graduated from Gebze Technical University - Computer Science and Engineering
 
 ---
 
