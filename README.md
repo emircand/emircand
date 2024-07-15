@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I am currently expanding my skills in backend development with **.NET**.
+- 🌱 I am currently expanding my skills in backend development with **Spring Boot**.
 - 🧠 I have extensive knowledge and experience in **NLP**, **Computer Vision**, and **AR/VR Development**.
 - 🚀 I love exploring new technologies and applying them to solve real-world problem.
 - 🎓 Graduated from **Gebze Technical University** with a degree in **Computer Science and Engineering**.
