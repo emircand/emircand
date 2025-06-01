@@ -7,8 +7,8 @@ Currently, I'm part of the modernization team at **GİB Teknoloji**, where I hel
 
 ### 🧰 Tech I Work With
 
-`Java` · `Spring Boot` · `React` · `SQL` · `Docker` · `CI/CD`  
-`Microservices` · `OpenCV` · `TensorFlow` · `Node.js` · `AWS`
+`Java` · `Spring Boot` · `React` · `Docker` · `CI/CD`  
+`Microservices` · `OpenCV` · `TensorFlow` · `AWS`
 
 ---
 
